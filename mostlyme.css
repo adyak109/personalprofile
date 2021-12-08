@@ -1,0 +1,21 @@
+
+body {
+      background-color: lightblue;
+}
+
+
+h1 {
+    padding-left: 240px;
+    font-family: serif;
+    color: darkblue;
+    font-size: 20px;
+    border-color: blue; border-width:.25em
+
+}
+p1{
+  font-size:20px
+}
+
+img {
+    height: auto;
+}
